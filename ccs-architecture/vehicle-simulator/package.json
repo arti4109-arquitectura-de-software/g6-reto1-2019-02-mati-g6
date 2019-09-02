@@ -1,0 +1,12 @@
+{
+  "name": "vehicle-simulator",
+  "version": "0.0.1",
+  "description": "Prototype application that simulates signals from vehicles",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

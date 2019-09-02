@@ -1,0 +1,14 @@
+{
+  "name": "emergency-adapter",
+  "version": "0.0.1",
+  "description": "Prototype that translates a AMQP message into a light message to be transmitted over TCP Socket",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "apminsight": "^1.6.2",
+    "appdynamics": "^4.5.20",
+    "dateformat": "^3.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "notification-handler",
+  "description": "Notification Handler Prototype",
+  "website": "-",
+  "repository": "-",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "socket",
+	"tcp"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
